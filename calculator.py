@@ -13,6 +13,7 @@ def divide(x, y):
     return x / y
 
 print ("Martin, Welcome to the calculator program!")
+print("Mit diesem Programm kannst du einfache Berechnungen durchführen.")
 print("Simple Calculator")
 print("Select operation:")
 print("1. Add")
