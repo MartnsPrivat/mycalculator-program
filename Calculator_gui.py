@@ -9,7 +9,7 @@ def calculate():
 
 # Create main window
 root = tk.Tk()
-root.title("Calculator")
+root.title("Martins Calculator")
 root.geometry("300x200")
 root.eval('tk::PlaceWindow . center')  # Center the window (works on some OS)
 

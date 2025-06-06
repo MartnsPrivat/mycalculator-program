@@ -15,7 +15,7 @@ def divide(x, y):
 print ("Martin, Welcome to the calculator program!")
 print("Mit diesem Programm kannst du einfache Berechnungen durchführen.")
 print("Simple Calculator")
-print("Select operation:")
+print("Please select operation:")
 print("1. Add")
 print("2. Subtract")
 print("3. Multiply")
